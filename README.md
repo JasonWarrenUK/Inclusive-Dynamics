@@ -1,6 +1,6 @@
 # Inclusive Dynamics
 
-<!-- ![Banner Image](path/to/banner-image.png) -->
+![Banner Image](img/banner.webp)
 
 ## Description
 
