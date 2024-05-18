@@ -8,6 +8,11 @@ Inclusive Dynamics is a tool designed for facilitators to input and track observ
 
 ## Roadmap
 
+- [x] **Groundwork**
+  - [x] Create README
+  - [x] Add license
+  - [x] Create folder structure
+  - [x] Create .gitignore
 - [ ] **Setup**
   - [ ] Create React frontend
   - [ ] Create Node.js/Express backend
